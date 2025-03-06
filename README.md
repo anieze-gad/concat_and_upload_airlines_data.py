@@ -20,3 +20,19 @@ This project features a Python script, `concat_and_upload_airlines_data.py`, des
 - Airlines On-time Performance dataset files (e.g., CSV format) from a reliable source
   
 ## 🔧 Installation & Setup
+
+### **Step 1: Clone the Repository**
+```
+git clone https://github.com/anieze-gad/concat_and_upload_airlines_data.py
+```
+
+### **Step 2: Install Dependencies**
+```
+pip install -r requirements.txt
+```
+
+### **Step 3: Open the Jupyter Notebook**
+```
+jupyter notebook
+```
+Open On-time Performance Data consolidation.ipynb to explore the analysis and forecasting results.
