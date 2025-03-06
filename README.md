@@ -36,3 +36,16 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 Open On-time Performance Data consolidation.ipynb to explore the analysis and forecasting results.
+
+# Contributing
+Feel free to fork this repository, submit pull requests, or suggest improvements via issues. Contributions to enhance functionality (e.g., error handling, additional file formats) are welcome!
+
+# 👨‍💻 Author
+### **Anieze Ifesinachi Gad**
+📧 Email: aniezegad7@gmail.com 
+🔗 GitHub: [anieze-gad](https://github.com/anieze-gad)
+
+# 📜 License
+This project is licensed under the MIT License.
+
+
